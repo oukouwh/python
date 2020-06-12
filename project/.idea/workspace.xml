@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb86979f-87fb-4b0d-9a9f-c89da05e485d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cA11tEz28WfSOO0soMpTl439Kq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+  </component>
+  <component name="RunManager" selected="Python.sql_demo">
+    <configuration name="chat_client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learing_python/tcp_udp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learing_python/tcp_udp/chat_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chat_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learing_python/tcp_udp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learing_python/tcp_udp/chat_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sql_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learing_python/sql" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learing_python/sql/sql_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tcp_client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learing_python/tcp_udp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learing_python/tcp_udp/tcp_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learing_python/iter_for" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learing_python/iter_for/test_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sql_demo" />
+        <item itemvalue="Python.test_demo" />
+        <item itemvalue="Python.chat_client" />
+        <item itemvalue="Python.chat_server" />
+        <item itemvalue="Python.tcp_client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb86979f-87fb-4b0d-9a9f-c89da05e485d" name="Default Changelist" comment="" />
+      <created>1589956371998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589956371998</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="415" y="7" key="FileChooserDialogImpl" timestamp="1589956863270">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="415" y="7" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589956863270" />
+    <state width="1254" height="223" key="GridCell.Tab.0.bottom" timestamp="1591957698817">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1254" height="223" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591957698817" />
+    <state width="1254" height="223" key="GridCell.Tab.0.center" timestamp="1591957698817">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1254" height="223" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591957698817" />
+    <state width="1254" height="223" key="GridCell.Tab.0.left" timestamp="1591957698817">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1254" height="223" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591957698817" />
+    <state width="1254" height="223" key="GridCell.Tab.0.right" timestamp="1591957698817">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1254" height="223" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591957698817" />
+    <state width="1239" height="186" key="GridCell.Tab.1.bottom" timestamp="1590500711351">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="186" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590500711351" />
+    <state width="1239" height="186" key="GridCell.Tab.1.center" timestamp="1590500711350">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="186" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1590500711350" />
+    <state width="1239" height="186" key="GridCell.Tab.1.left" timestamp="1590500711350">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="186" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1590500711350" />
+    <state width="1239" height="186" key="GridCell.Tab.1.right" timestamp="1590500711351">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="186" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1590500711351" />
+    <state x="26" y="0" key="SettingsEditor" timestamp="1590386027849">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="26" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1590386027849" />
+    <state x="257" y="124" key="com.intellij.ide.util.TipDialog" timestamp="1591944188458">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="257" y="124" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1591944188458" />
+    <state x="246" y="41" width="874" height="639" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1589956871066">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="246" y="41" width="874" height="639" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1280.680@0.0.1280.680" timestamp="1589956871066" />
+    <state x="323" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1590308600656">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="323" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1590308600656" />
+    <state x="219" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1591957697599">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="219" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1591957697599" />
+  </component>
+</project>
