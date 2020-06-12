@@ -77,10 +77,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="git测试" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="208" y="0" key="CommitChangelistDialog2" timestamp="1591958011642">
+    <state x="208" y="0" key="CommitChangelistDialog2" timestamp="1591958763130">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="208" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1591958011642" />
+    <state x="208" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1591958763130" />
     <state x="133" y="9" key="Vcs.Push.Dialog.v2" timestamp="1591958018975">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -89,5 +89,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="257" y="124" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1591957740562" />
+    <state x="311" y="88" key="git4idea.merge.GitPullDialog" timestamp="1591958798395">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="311" y="88" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1591958798395" />
   </component>
 </project>
