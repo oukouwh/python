@@ -6,9 +6,14 @@
   <component name="ProjectId" id="1dDRYnvLh2fqaEgSVJlABI9XADw" />
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="208" y="0" key="CommitChangelistDialog2" timestamp="1591957815563">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="208" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1591957815563" />
     <state x="257" y="124" key="com.intellij.ide.util.TipDialog" timestamp="1591957740562">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
