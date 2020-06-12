@@ -5,7 +5,9 @@
 # @FileName: for_test.py
 # @Email : oukouwh@163.com
 # @Software: PyCharm
-
+'''
+    测试git
+'''
 tuple_info = ('A', 'B', 'C', 'D')
 tuple_item = tuple_info.__iter__()
 while True:
