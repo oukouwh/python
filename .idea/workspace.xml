@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13514f14-23b3-419e-8ff7-8a569fa7aff5" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/project/learing_python/web/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/learing_python/web/html_demo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/learing_python/web/html_demo/demo1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/learing_python/web/html_demo/demo_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/learing_python/web/html_demo/demo_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/learing_python/web/html_demo/demo_4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="13514f14-23b3-419e-8ff7-8a569fa7aff5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,20 +97,46 @@
       <option name="project" value="LOCAL" />
       <updated>1591958825616</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="demo">
+      <created>1592478731559</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592478731560</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test">
+      <created>1592478861964</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592478861964</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="杂七杂八不中看的小基础案例" />
     <MESSAGE value="git测试" />
+    <MESSAGE value="demo" />
     <MESSAGE value="test" />
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="208" y="0" key="CommitChangelistDialog2" timestamp="1592478809699">
+    <state x="208" y="0" key="CommitChangelistDialog2" timestamp="1592478860153">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="208" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1592478809699" />
+    <state x="208" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1592478860153" />
     <state x="410" y="0" key="RollbackChangesDialog" timestamp="1591960578259">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -137,10 +153,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="257" y="124" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1592478645753" />
-    <state x="401" y="239" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591958888872">
+    <state x="401" y="239" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592478930579">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="401" y="239" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1591958888872" />
+    <state x="401" y="239" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1592478930579" />
     <state x="311" y="88" key="git4idea.merge.GitPullDialog" timestamp="1591958798395">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
